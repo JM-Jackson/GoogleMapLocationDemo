@@ -1,0 +1,3 @@
+# GoogleMapLocationDemo
+google定位此DEMO仅限定位不支持地图，地图可直接在创建项目时直接选择google map进行创建，替换上自己的KEY即可使用，6.0测试机需要权限申请
+#google定位此DEMO仅限定位不支持地图，地图可直接在创建项目时直接选择google map进行创建，替换上自己的KEY即可使用，6.0测试机需要权限申请
